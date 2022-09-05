@@ -1,0 +1,20 @@
+{
+  "name": "the-greatest-warrior",
+  "version": "1.0.0",
+  "description": "Создайте класс под названием Warrior, который вычисляет и отслеживает их уровень и навыки и оценивает их как воинов, которыми они зарекомендовали себя.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatePann/The-Greatest-Warrior.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatePann/The-Greatest-Warrior/issues"
+  },
+  "homepage": "https://github.com/KatePann/The-Greatest-Warrior#readme"
+}
