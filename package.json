@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KatePann/The-Greatest-Warrior/issues"
   },
-  "homepage": "https://github.com/KatePann/The-Greatest-Warrior#readme"
+  "homepage": "https://github.com/KatePann/The-Greatest-Warrior#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
