@@ -19,7 +19,7 @@ class Warrior {
       for (let i = 0; i < rankName.length; i++) {
 if (levelWarrior)
       }
-    } ляляля
+    }
 
     console.log(
       `😾 Создан воин: ${this.name}. Уровень-${this.level}. Ранг-${this.rank}. Опыт-${this.experience}  `,
